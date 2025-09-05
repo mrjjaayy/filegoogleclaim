@@ -99,13 +99,13 @@ export default function Home() {
           <p className="text-lg text-gray-700 mb-8">
             When one company controls every stage of an auction, prices can rise artificially. 
             Businesses—from small startups to large enterprises—have seen their marketing 
-            budgets swell because Google's integrated tools limited true competition.
+            budgets swell because Google&apos;s integrated tools limited true competition.
           </p>
           
           <div className="bg-gray-50 rounded-2xl p-8 mb-8">
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Act Now</h3>
             <p className="text-lg text-gray-700">
-              Time is limited to file your claim. Don't risk losing your right to file—submit your details now.
+              Time is limited to file your claim. Don&apos;t risk losing your right to file—submit your details now.
             </p>
           </div>
         </div>
@@ -123,7 +123,7 @@ export default function Home() {
           
           <div className="text-center mb-12">
             <p className="text-lg text-gray-700">
-              At Keller Postman, we've helped thousands of individuals and businesses pursue justice—
+              At Keller Postman, we&apos;ve helped thousands of individuals and businesses pursue justice—
               <strong> and win</strong>—against some of the largest and most powerful corporations in America.
             </p>
           </div>
@@ -137,7 +137,7 @@ export default function Home() {
                 <h3 className="text-xl font-bold text-gray-900">Proven Track Record</h3>
               </div>
               <p className="text-gray-700">
-                We've secured hundreds of millions of dollars for clients in high-stakes litigation against 
+                We&apos;ve secured hundreds of millions of dollars for clients in high-stakes litigation against 
                 Fortune 500 companies.
               </p>
             </div>

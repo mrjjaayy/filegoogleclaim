@@ -363,7 +363,7 @@ export default function Home() {
       <footer className="bg-gray-100 py-12">
         <div className="max-w-6xl mx-auto px-4 text-center">
           <div className="mb-8">
-            <a href="https://www.claimforge.ai/google/terms-of-service" className="text-kp-blue hover:underline">Terms & Conditions</a>
+            <a href="https://www.kpinjury.com/google-claim-estimate/clkn/https/www.kpinjury.com/termsandconditions/" className="text-kp-blue hover:underline">Terms & Conditions</a>
           </div>
           
           <div className="text-sm text-gray-600 leading-relaxed max-w-4xl mx-auto">
